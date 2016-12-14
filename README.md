@@ -5,6 +5,6 @@ Companion to the [foosball-rating app](https://github.com/gugi9000/foosball-rati
 
 ## should answer stat questions 
 
-## shuold report top 3 after new matches
+## should report top 3 after new matches
 
 ## should ridicule 10 to 0 losers :-)
