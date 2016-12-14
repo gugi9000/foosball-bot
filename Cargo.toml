@@ -1,0 +1,11 @@
+[package]
+name = "foosball-bot"
+version = "0.1.0"
+authors = ["Bjarke Sørensen <bs@wasd.dk>"]
+
+[dependencies]
+
+[dependencies.discord]
+version = "0.7.0"
+default-features = false
+
