@@ -1,7 +1,7 @@
 # foosball-bot
 A discord bot that reports foosball stats
 
-Companion to the [foosball-rating app](https://github.com/gugi9000/foosball-rating) 
+Companion to the [foosball app](https://github.com/gugi9000/foosball) 
 
 ## should answer stat questions 
 
